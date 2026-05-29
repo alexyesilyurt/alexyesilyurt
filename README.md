@@ -22,3 +22,6 @@ When I'm not coding, you'll probably find me playing Tetris or out on a hike. �
 - 🥇 **1st place**, MIG Quant Conference (March 2026)
 - 📈 **IMC Prosperity 4** — placed **83rd globally out of 18,803 teams** (top 0.5%)
 - 🤖 Built a trading bot as part of **Optiver's FutureFocus** program
+
+<!-- profile -->
+
