@@ -7,6 +7,8 @@ sit at the intersection of finance and software, and digging into how markets ac
 the hood. I'm always tinkering with a new project and trying to learn something I didn't know
 yesterday.
 
+You can learn more about me, my work, and what I'm up to at **[alexyesilyurt.dev](https://alexyesilyurt.dev)**.
+
 When I'm not coding, you'll probably find me playing Tetris or out on a hike. 🏔️
 
 ## 📌 A few things I've built
@@ -15,13 +17,16 @@ When I'm not coding, you'll probably find me playing Tetris or out on a hike. �
   book & matching engine in C++.
 - **[black-scholes-model-mfams](https://github.com/alexyesilyurt/black-scholes-model-mfams)**:
   options pricing, implied volatility, and the Greeks for S&P 500 (^XSP) options.
+- **[personal-site](https://github.com/alexyesilyurt/personal-site)**: my personal site and public
+  home for projects, experience, and links.
 - 🔮 **Prediction markets** — currently building something new in this space. Stay tuned!
 
 ## 🏆 Competitions
 
-- 🥇 **1st place**, MIG Quant Conference (March 2026)
-- 📈 **IMC Prosperity 4** — placed **83rd globally out of 18,803 teams** (top 0.5%)
+- 🥇 **1st place**, MIG Quant Conference (March 2026) — writeup repo:
+  **[mig-conference-writeup](https://github.com/alexyesilyurt/mig-conference-writeup)**
+- 📈 **IMC Prosperity 4** — placed **83rd globally out of 18,803 teams** (top 0.5%);
+  writeup repo: **[imc-prosperity-writeup](https://github.com/alexyesilyurt/imc-prosperity-writeup)**
 - 🤖 Built a trading bot as part of **Optiver's FutureFocus** program
 
 <!-- profile -->
-
